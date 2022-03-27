@@ -1,84 +1,81 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Creighton Davison
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Creighton Davison
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
-
-## Education
-
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+<a href="CKD585@gmail.com">CKD585@gmail.com</a>
 
 
-## Related Experience
+
+## EDUCATION
+
+
+__SENIOR, BRIGHAM YOUNG UNIVERSITY-IDAHO__, REXBURG, ID
+
+- BACHELORS ACCOUNTING / DATA SCIENCE CERTIFICATE
+
+## SKILLS
+
+- EXCEL / VBA / ACCESS
+- PYTHON / SQL
+- CLASS A CDL WITH DOUBLES / TRIPLES / HAZEMAT ENDORSEMENT
+- SOLIDWORKS ASSOCIATE CERTIFICATION
+- PROFICIENT IN EQUIPEMENT AND GAS ENGINE MAINTENANCE AND REPAIRS
+
+## Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2021 - May 2021`
+__Noble Healthcare__, Emmett, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- ACCOUNTS PAYABLE
+- PAYROLL IMPORTING
 
-### Data Science Lead
+### Accounting Controller
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2021 - Current`
+__Noble Healthcare__, Emmett, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Developed new Accounts Recievable systems and procedures.
+- Currently facilitating new HR enrollment and payment systems.
 
 
-## Service and Work History
+### Warehouse worker/driver
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`October 2018 - August 2020`
+__NUTRIEN AG SOLUTIONS__
+
+- Co-ordinate Drivers deliveries.
+- Prepare shipping documents
+- Repackage hazardous agricultural chemical
+- Prepare chemical orders for customers prior to pickup/delivery
+- Operate machinery/forklifts
+- Conduct warehouse Inventory
+
+### FARM HAND SEASONAL HARVEST
+
+`July 2018 – september 2018`
+__SOUTH BENCH FARMS__, 
+
+- Operated Combines/Seed Carts/Fuel Trucks/Tractor Trailers
+- Performed regular maintenance on all equipment
+- Performed moisture tests before filling bins
+
+### LABORER
+`OCTOBER 2016 – DECEMBER 2017`
+__NORTHERN SEEDS__
+
+- Meter/auger seed on to trucks
+- Calculate and apply seed treat
+- Machinery repairs/maintenance
+- Alternate CDL driver
+- Operated grain-vacs/sweep augers to clean bins
 
 
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
