@@ -33,7 +33,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Intro Data Science Programming Class__, Brigham Young University - Idaho
 
 
-## Service and Work History
+## Work and Service History
 
 `March 2022 - Present`
 __Software Developer__, Embedded Engineering Systems
