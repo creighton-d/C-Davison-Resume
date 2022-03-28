@@ -35,9 +35,8 @@ __Intro Data Science Programming Class__, Brigham Young University - Idaho
 
 ## Service and Work History
 
-<!-- `2025-2027` -->
-<!-- __Math Tutor__, LDSBC -->
-
+`March 2022 - Present`
+__Software Developer__, Embedded Engineering Systems
 
 `2017-2019`
 __Service Missionary__, Germany
