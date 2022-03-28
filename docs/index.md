@@ -12,7 +12,6 @@ title: Creighton Davison
 
 ## EDUCATION
 
-
 __SENIOR, BRIGHAM YOUNG UNIVERSITY-IDAHO__, REXBURG, ID
 
 - BACHELORS ACCOUNTING / DATA SCIENCE CERTIFICATE
@@ -32,8 +31,8 @@ __SENIOR, BRIGHAM YOUNG UNIVERSITY-IDAHO__, REXBURG, ID
 `January 2021 - May 2021`
 __Noble Healthcare__, Emmett, ID
 
-- ACCOUNTS PAYABLE
-- PAYROLL IMPORTING
+- Accounts Payable
+- Payroll Imports
 
 ### ACCOUNTING CONTROLLER
 
@@ -47,11 +46,10 @@ __Noble Healthcare__, Emmett, ID
 - Work with government regulations and inquiries to keep company in conformity.
 - Oversee and support accounting team and provide needed training.
 
-
 ### WAREHOUSE WORKER/DRIVER
 
 `October 2018 - August 2020`
-__NUTRIEN AG SOLUTIONS__
+__NUTRIEN AG SOLUTIONS__, Great Falls, MT
 
 - Co-ordinate Drivers deliveries.
 - Prepare shipping documents.
@@ -63,7 +61,7 @@ __NUTRIEN AG SOLUTIONS__
 ### FARM HAND SEASONAL HARVEST
 
 `July 2018 – september 2018`
-__SOUTH BENCH FARMS__, 
+__SOUTH BENCH FARMS__, Highwood, MT
 
 - Operated Combines, Seed Carts, Fuel Trucks, and Tractor Trailers.
 - Performed regular maintenance on all equipment.
@@ -71,7 +69,7 @@ __SOUTH BENCH FARMS__,
 
 ### LABORER
 `October 2016 – December 2017`
-__NORTHERN SEEDS__
+__NORTHERN SEEDS__, Fort Benton, MT
 
 - Meter and auger seed on to trucks.
 - Calculate and apply chemical treatment to seed.
