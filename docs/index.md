@@ -25,9 +25,9 @@ __SENIOR, BRIGHAM YOUNG UNIVERSITY-IDAHO__, REXBURG, ID
 - SOLIDWORKS ASSOCIATE CERTIFICATION
 - PROFICIENT IN EQUIPEMENT AND GAS ENGINE MAINTENANCE AND REPAIRS
 
-## Experience
+## EXPERIANCE
 
-### Internships
+### INTERNSHIP
 
 `January 2021 - May 2021`
 __Noble Healthcare__, Emmett, ID
@@ -35,7 +35,7 @@ __Noble Healthcare__, Emmett, ID
 - ACCOUNTS PAYABLE
 - PAYROLL IMPORTING
 
-### Accounting Controller
+### ACCOUNTING CONTROLLER
 
 `May 2021 - Current`
 __Noble Healthcare__, Emmett, ID
@@ -44,7 +44,7 @@ __Noble Healthcare__, Emmett, ID
 - Currently facilitating new HR enrollment and payment systems.
 
 
-### Warehouse worker/driver
+### WAREHOUSE WORKER/DRIVER
 
 `October 2018 - August 2020`
 __NUTRIEN AG SOLUTIONS__
@@ -66,7 +66,7 @@ __SOUTH BENCH FARMS__,
 - Performed moisture tests before filling bins
 
 ### LABORER
-`OCTOBER 2016 – DECEMBER 2017`
+`October 2016 – December 2017`
 __NORTHERN SEEDS__
 
 - Meter/auger seed on to trucks
