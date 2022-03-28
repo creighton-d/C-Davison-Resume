@@ -22,7 +22,7 @@ __SENIOR, BRIGHAM YOUNG UNIVERSITY-IDAHO__, REXBURG, ID
 - EXCEL / VBA / ACCESS
 - PYTHON / SQL
 - CLASS A CDL WITH DOUBLES / TRIPLES / HAZEMAT ENDORSEMENT
-- SOLIDWORKS ASSOCIATE CERTIFICATION
+- SOLIDWORKS ASSOCIATE CERTIFIED
 - PROFICIENT IN EQUIPEMENT AND GAS ENGINE MAINTENANCE AND REPAIRS
 
 ## EXPERIANCE
@@ -41,7 +41,11 @@ __Noble Healthcare__, Emmett, ID
 __Noble Healthcare__, Emmett, ID
 
 - Developed new Accounts Recievable systems and procedures.
-- Currently facilitating new HR enrollment and payment systems.
+- Facilitating new HR enrollment and payment systems.
+- Developing internal controls.
+- Provide financial updates to the CFO.
+- Work with government regulations and inquiries to keep company in conformity.
+- Oversee and support accounting team and provide needed training.
 
 
 ### WAREHOUSE WORKER/DRIVER
@@ -50,37 +54,36 @@ __Noble Healthcare__, Emmett, ID
 __NUTRIEN AG SOLUTIONS__
 
 - Co-ordinate Drivers deliveries.
-- Prepare shipping documents
-- Repackage hazardous agricultural chemical
-- Prepare chemical orders for customers prior to pickup/delivery
-- Operate machinery/forklifts
-- Conduct warehouse Inventory
+- Prepare shipping documents.
+- Repackage hazardous agricultural chemical.
+- Prepare chemical orders for customers prior to pickup/delivery.
+- Operate heavy machinery.
+- Conduct warehouse Inventory.
 
 ### FARM HAND SEASONAL HARVEST
 
 `July 2018 – september 2018`
 __SOUTH BENCH FARMS__, 
 
-- Operated Combines/Seed Carts/Fuel Trucks/Tractor Trailers
-- Performed regular maintenance on all equipment
-- Performed moisture tests before filling bins
+- Operated Combines, Seed Carts, Fuel Trucks, and Tractor Trailers.
+- Performed regular maintenance on all equipment.
+- Performed moisture tests before filling bins.
 
 ### LABORER
 `October 2016 – December 2017`
 __NORTHERN SEEDS__
 
-- Meter/auger seed on to trucks
-- Calculate and apply seed treat
-- Machinery repairs/maintenance
-- Alternate CDL driver
-- Operated grain-vacs/sweep augers to clean bins
+- Meter and auger seed on to trucks.
+- Calculate and apply chemical treatment to seed.
+- Machinery repairs/maintenance.
+- Alternate CDL driver.
+- Operated grain-vacs/sweep augers for bin cleaning.
 
 
 
 
 
 <!-- ### Footer
-
 Last updated: May 2013 -->
 
 
