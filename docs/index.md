@@ -3,7 +3,6 @@ layout: cv
 title: Gabriele Peck's Resume
 ---
 # Gabriele Peck
-_https://symbolisticism.github.io/mdresume/_
 A BYU-I Software Engineering student - emphasis in databases, machine learning, and software management.
 
 
