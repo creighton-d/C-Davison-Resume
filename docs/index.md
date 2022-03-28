@@ -1,27 +1,27 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Gabriele Peck's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Gabriele Peck
+A BYU-I Software Engineering student - emphasis in databases, machine learning, and software management.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/gabriele-peck-b86716202/">LinkedIn</a>
+| <a href="https://github.com/symbolisticism">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2013-2017`
+__American Leadership Academy - Queen Creek__, Queen Creek, AZ
 
-- Full academic scholarship with 4.0 GPA
+- 3.7 GPA
 
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
@@ -73,12 +73,12 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+<!-- `2025-2027` -->
+<!-- __Math Tutor__, LDSBC -->
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary__, Germany
 
 
 
