@@ -22,9 +22,9 @@ My Resume: https://symbolisticism.github.io/mdresume/
 
 __Dale Carnegie (How To Win Friends And Influence People):__ When you nurture good relationships at work, you minimize unrelated bumps in the road and you create a work environment that everyone likes to be in.
 
-__Dave Ramsey:__ Being prudent with resources (money or not) both at and outside of work is a sign of respect and ingenuity. I beleive in helping things grow while minimizing risk for myself and others.
+__Dave Ramsey:__ Being prudent with resources (money or not) both inside and outside of work is a sign of respect and ingenuity. I beleive in helping things grow while minimizing risk for myself and others.
 
-__Steven Covey:__ I align myself with Mr. Covey's values for effective people and relationships. I believe proactivity, symbiotic work relationships, and prioritizing the right things can revolutionize a workplace.
+__Steven Covey:__ I align myself with Steven Covey's values for effective people and relationships. I believe proactivity, symbiotic work relationships, and prioritizing the right things will revolutionize a workplace.
 
 ## Where I've Been
 
@@ -65,6 +65,6 @@ __Service Missionary__, Germany
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
