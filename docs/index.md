@@ -6,7 +6,7 @@ title: Gabriele Peck's Resume
 
 A BYU-I Software Engineering student - emphasis in databases, machine learning, and software management.
 
-<a href="https://symbolisticism.github.io/mdresume/">A link to this resume</a>
+My Resume: https://symbolisticism.github.io/mdresume/
 
 
 <div id="webaddress">
